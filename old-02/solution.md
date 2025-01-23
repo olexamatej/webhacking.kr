@@ -111,7 +111,7 @@ Gaining whole name is little bit trickier, but nothing impossible if we have cor
 
 ## Final solution
 
-This is my final solution, enjoy!
+Final solution is getting other names and length with similiar way that was introduced in `Exploitation`.
 
 ```python
 import requests
