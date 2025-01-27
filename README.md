@@ -1,11 +1,12 @@
 # webhacking.kr
 
-My solutions to challenges from [webhacking.kr](https://webhacking.kr).  
+My solutions to challenges from [webhacking.kr](https://webhacking.kr), focused on **web security**.
+The challenges cover web vulnerabilities like XSS, SQL injection, and more.
 
-**What’s inside?**  
-- Each challenge has its own folder.  
-- Contains `solution.md` with a detailed explanation and analysis.  
-- Includes scripts (e.g., `solution.py`) if needed to solve the challenge.  
-- Additional files (if required) from the challenge itself.  
+## Repo Contents
 
-Feel free to explore and use as a reference!
+- Each challenge has its own folder.
+- `solution.md` with detailed explanation.
+- Scripts (e.g., `solution.py`) if needed.
+- Additional files from the challenge itself.
+
